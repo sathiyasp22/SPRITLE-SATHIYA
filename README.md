@@ -3,8 +3,8 @@
 2.Dockerized this application.
 
 #### website Link    :          <br>
-#### API Link        :          <br>
-#### Video Link      :          <br>
+#### API Link        :          https://spritleapi.onrender.com        <br>
+
 #### Docker FrontEnd :          docker pull sathiyapriya22/spritle:tagname<br>
 #### Docker BackEnd  :          docker pull sathiyapriya22/spritle_backend:tagname
 
